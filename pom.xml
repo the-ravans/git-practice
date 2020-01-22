@@ -5,7 +5,7 @@
 
 	<groupId>edu.citadel</groupId>
 	<artifactId>git-practice</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 
 	<name>git-practice</name>
 	<description>Simple repository to practice your git and Github skills</description>
